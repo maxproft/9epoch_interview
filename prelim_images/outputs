@@ -1,0 +1,24 @@
+/home/projects/9epoch/venv/bin/python /home/projects/9epoch/for_nathan/multitrain/prelim.py
+number of records: 21760
+Earliest publish_datetime = 2018-12-01 05:19:00+00:00, latest = 2021-02-21 13:14:00+00:00, difference = 813 days 07:55:00
+Number Authors (kinda): 3018
+top author with more than 500 articles: ['Angela Macdonald-Smith', 'Simon Evans', 'Sue Mitchell', 'Max Mason', 'James Frost', 'James Eyers', 'Brad Thompson', 'Timothy Moore', 'Peter Ker', 'Jonathan Shapiro', 'James Fernyhough', 'William McInnes', 'Jenny Wiggins']
+Duplicate article_title: 95
+title num words mean, std: 8.18429155751643, 1.8725044314818988
+Article summaries which are not blank: 1168 / 21760
+summary num words mean, std: 23.97517123287671, 6.266504233872746
+article_content num chars mean: 4275.8202582839285, stddev 2135.709848873402
+article_content num words mean, std: 701.1760650765201, 354.5425369677678
+sentiment_score length mean: 0.021156158088235295, stddev 0.25929701763348934
+sectors: {'Markets', 'Companies'}. Companies: 17015, Markets 4745
+There are 62 categories
+top category with more than 500 articles: ['Financial Services', 'Equity Markets', 'Energy', 'Retail', 'Mining', 'Media And Marketing', 'Professional Services', 'Transport', 'Healthcare And Fitness', 'Infrastructure']
+There are 734 sub_categories
+top sub_category with more than 500 articles: ['Coronavirus pandemic', 'Sharemarket', 'Before the Bell']
+There are 2782 unique tags
+top tags with more than 500 articles: ['Coronavirus pandemic', 'Shares', 'Opinion', 'Investing', 'Sharemarket', 'World markets', 'Mining', 'Bonds', 'Retail', 'Commodities', 'Big four', 'Currencies', 'Gas', 'Westpac Banking Corporation', 'Earnings season', 'Mergers & acquisitions', 'National Australia Bank', 'China', 'Commonwealth Bank', 'BHP Billiton', 'Analysis', 'Before the Bell', 'Legal industry', 'USA', 'Oil', 'Hayne fallout', 'Rio Tinto', 'Electricity']
+Earliest date_time_utc = 2020-12-15 08:18:00, latest = 2021-02-21 02:24:00, difference = 67 days 18:06:00
+Earliest date_time_aest = 2020-12-15 19:18:00+00:00, latest = 2021-02-21 13:24:00+00:00, difference = 67 days 18:06:00
+
+Process finished with exit code 0
+
